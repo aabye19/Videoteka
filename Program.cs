@@ -11,6 +11,9 @@ namespace Videoteka
         static void Main(string[] args)
         {
             Console.WriteLine("To je videoteka");
+
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
         }
     }
 }
