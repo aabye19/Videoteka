@@ -14,6 +14,18 @@ namespace Videoteka
 
             Console.WriteLine("To je videoteka");
             Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
+
+            Console.WriteLine("To je videoteka");
+            Console.WriteLine("To je videoteka");
         }
     }
 }
