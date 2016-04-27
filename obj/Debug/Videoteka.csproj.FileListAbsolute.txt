@@ -1,1 +1,6 @@
 C:\testgit\Videoteka\bin\Debug\Videoteka.exe.config
+C:\testgit\Videoteka\bin\Debug\Videoteka.exe
+C:\testgit\Videoteka\bin\Debug\Videoteka.pdb
+C:\testgit\Videoteka\obj\Debug\Videoteka.csprojResolveAssemblyReference.cache
+C:\testgit\Videoteka\obj\Debug\Videoteka.exe
+C:\testgit\Videoteka\obj\Debug\Videoteka.pdb
